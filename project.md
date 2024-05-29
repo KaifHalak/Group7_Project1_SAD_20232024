@@ -307,7 +307,11 @@ standards.
 
 By implementing this project plan, Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail can effectively manage the remote learning project, ensuring successful delivery and achievement of desired outcomes.
 
-[INSERT 7.1 TO 7.3]
+![Human Resource](/images/humanResource.png)
+![Human Resource](/images/PERT%20chart.png)
+![Human Resource](/images/Gantt%20Chart.png)  
+
+
 
 ##  Benefits of the Proposed System
 
