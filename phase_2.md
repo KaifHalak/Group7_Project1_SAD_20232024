@@ -2,6 +2,12 @@
 
 # System Requirement Document for Remote Learning System Implementation (Phase 2)
 
+| Group Members    | Matric Number |
+| -------- | ------- |
+| Muhammad Usman  | A23MJ3008    |
+| Khobait Uddin Simran | A23MJ3006     |
+| Md Arshad Ali Bhuiyan    | A22MJ9007    |
+
 ## 1.0 Overview of the Project
 Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail aims to implement a Remote Learning Management System (RLMS) to enhance remote educational delivery. The proposed remote learning system will address current challenges by implementing features such as virtual classrooms and interactive study materials to improve efficiency, transparency, and data security.
 
@@ -107,3 +113,62 @@ The surveys and interviews revealed key areas needing improvement:
 - User-friendly interface.
 - Robust security and data privacy measures.
 - Scalability to support a large number of concurrent users.
+
+
+## 5.0 Requirement Analysis
+
+### Current Business Process
+The existing workflow involves the following steps:
+- Teachers create and share lesson content using tools like Google Drive, Dropbox, or Microsoft OneDrive.
+- Students access the lesson materials through links or attachments shared by teachers via email or messaging apps like WhatsApp.
+- For live sessions, teachers and students use video conferencing platforms such as Zoom or Google Meet.
+- Communication between students and teachers primarily occurs through messaging apps, email, or discussion forums provided by the video conferencing platforms.
+- Tracking student attendance, participation, and progress is done manually by teachers, often using spreadsheets or paper-based records.
+- Administrators oversee the overall remote learning process, providing support and guidance to teachers and students, but lack comprehensive data on the system's performance.
+- The IT staff manages the technical aspects of the remote learning setup, troubleshooting issues and ensuring the availability of the third-party tools.
+
+This approach leads to several challenges, including inefficient communication channels, limited progress tracking capabilities, and insufficient interactive study materials.
+
+### 5.2 Functional Requirement (Input, Process, Output)
+
+#### Virtual Classrooms
+- **Input:** User login, lesson content.
+- **Process:** Real-time interaction, content sharing.
+- **Output:** Recorded sessions, participation data.
+
+#### Interactive Study Materials
+- **Input:** Multimedia content, quizzes.
+- **Process:** Content delivery, adaptive learning.
+- **Output:** Student performance data.
+
+#### Progress Tracking System
+- **Input:** Attendance logs, assignment submissions.
+- **Process:** Data analysis, performance tracking.
+- **Output:** Analytics reports, progress dashboards.
+
+#### Communication Tools
+- **Input:** Messages, forum posts.
+- **Process:** Message delivery, forum management.
+- **Output:** Communication logs, discussion summaries.
+
+### 5.3 Non-Functional Requirement (Performance and Control)
+
+#### Performance
+- System must support concurrent users without lag, ensure fast content delivery.
+
+#### Control
+- Secure data storage, compliance with data privacy regulations, role-based access control.
+
+
+### Context Diagram
+
+![](/images/DFD%20Context%20Diagram.jpg)
+
+### Diagram 0
+
+![](/images/DFD%20Diagram%200.jpg)
+
+## 6.0 Summary of Requirement Analysis Process
+The requirement analysis process involved gathering data through surveys and interviews with stakeholders, analyzing the current business processes, and identifying the functional and non-functional requirements for the new system. This thorough analysis ensures the new RLMS will address existing challenges effectively, providing a seamless and enhanced learning experience.
+
+Overall, the proposed remote learning system for Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail is will to revolutionize education delivery, leveraging technology to enhance learning outcomes and operational efficiency.
