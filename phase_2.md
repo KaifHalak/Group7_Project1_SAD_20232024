@@ -1,12 +1,29 @@
 
+![](/images/UTM%20Logo.png)
 
-# System Requirement Document for Remote Learning System Implementation (Phase 2)
+## Malaysian-Japan International Institute of Technology 
+
+
+
+### SECD2613-15 SYSTEM ANALYSIS AND DESIGN
+
+
+#### Group Assignment 1
+
+
+
+#### Lecturer Name: Dr. SAIDATUL HAMIDAH BINTI ABD HAMID
+
 
 | Group Members    | Matric Number |
 | -------- | ------- |
 | Muhammad Usman  | A23MJ3008    |
 | Khobait Uddin Simran | A23MJ3006     |
 | Md Arshad Ali Bhuiyan    | A22MJ9007    |
+
+
+# System Requirement Document for Remote Learning System Implementation (Phase 2)
+
 
 ## 1.0 Overview of the Project
 Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail aims to implement a Remote Learning Management System (RLMS) to enhance remote educational delivery. The proposed remote learning system will address current challenges by implementing features such as virtual classrooms and interactive study materials to improve efficiency, transparency, and data security.
