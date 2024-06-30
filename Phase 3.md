@@ -101,15 +101,18 @@ This part, using Data Flow Diagrams (DFDs), will show the system from both a hig
 ### Context Diagram
 
 The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.
+![Context Diagram - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/d3086c8a-cfbe-4f6f-b5b9-874675fdd99e)
 
 
 ### DFD Level 0
 
 The DFD Level 0 diagram for the RLMS illustrates the major processes within the system, including user management, virtual classroom management, material management, progress tracking, and communication.\
+![Diagram 0 - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/830f2ba0-5fd7-40a8-a2f1-26ce5970e380)
 
 ### Child Diagram
 
 The child diagram breaks down the main processes into more detailed components, showing the specific functionalities within user management, virtual classroom management, material management, progress tracking, and communication tools.
+![Performance Tracking Child Diagram TO-BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/cc683e06-6710-4da9-9fde-f7c3404745bf)
 
 ## Process Specifications
 
