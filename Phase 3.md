@@ -1,6 +1,6 @@
 
 
-[](/images/UTM%20Logo.png)
+![](/images/UTM%20Logo.png)
 
 ## Malaysian-Japan International Institute of Technology 
 
