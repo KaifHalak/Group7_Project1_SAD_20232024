@@ -1,3 +1,28 @@
+[](/images/UTM%20Logo.png)
+
+## Malaysian-Japan International Institute of Technology 
+
+
+
+### SECD2613-15 SYSTEM ANALYSIS AND DESIGN
+
+
+#### Group Assignment 1
+
+
+
+#### Lecturer Name: Dr. SAIDATUL HAMIDAH BINTI ABD HAMID
+
+
+| Group Members    | Matric Number |
+| -------- | ------- |
+| Muhammad Usman  | A23MJ3008    |
+| Khobait Uddin Simran | A23MJ3006     |
+| Md Arshad Ali Bhuiyan    | A22MJ9007    |
+
+# Project 1
+
+System Analysis and Design Group Project 1 2023-2024 MJIIT UTM Kl
 
 
 ## Overview
