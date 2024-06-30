@@ -64,4 +64,65 @@ Functional requirements summarize the essential features and capabilities that t
 - **Performance**: The system should be able to support up to 10,000 concurrent users with low latency.
 - **Usability**: It should be easy to use and understandable for individuals with different levels of technical proficiency.
 - **Reliability**: Ensure high availability with a yearly downtime of less than 1%.
-- **Scalability**: The system should scale horizontally to accommodate a
+- **Scalability**: The system should scale horizontally to accommodate a growing user base.
+- **Security**: Adhere to industry standards for privacy and data security for all users.
+
+## Logical DFD TO-BE System
+
+This part, using Data Flow Diagrams (DFDs), will show the system from both a high-level (context diagram) and a more in-depth perspective (level diagrams).
+
+### Context Diagram
+
+The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.
+
+### DFD Level 0
+
+The DFD Level 0 diagram for the RLMS illustrates the major processes within the system, including user management, virtual classroom management, material management, progress tracking, and communication.
+
+### Child Diagram
+
+The child diagram breaks down the main processes into more detailed components, showing the specific functionalities within user management, virtual classroom management, material management, progress tracking, and communication tools.
+
+## Process Specifications
+
+1. **User Management**
+   - **Authentication and Access Control**: This module manages user login and signup, utilizing a variety of authentication approaches such as username/password and social login. It handles user roles and permissions, implementing access control regulations to guarantee that users can only conduct actions and access resources relevant to their given responsibilities.
+   - **User Profile**: This component contains the user's personal information, such as name, email, ID, class, section, faculty, and department. It enables users to update their profile information and interfaces with the authentication and access control systems.
+   - **Roles and Permissions**: This section defines and handles various user roles, including administrator, instructor, and student. It sets particular permissions and privileges to each role, ensuring that users can only access and conduct actions that are relevant to their responsibilities.
+
+2. **Virtual Classroom Management**
+   - **Create and Schedule Classes**: This part allows instructors to create and schedule virtual classrooms. It includes features for setting class times, recurring sessions, and sending notifications to students.
+   - **Host and Record Sessions**: This module manages live virtual classroom sessions, including tools for screen sharing, video conferencing, and recording sessions for future reference.
+   - **Attendance Management**: This feature tracks student attendance during live sessions, providing reports for instructors and administrators.
+
+3. **Interactive Study Materials**
+   - **Material Creation**: This component offers tools for creating various types of study materials, including videos, PDFs, and interactive quizzes.
+   - **Material Management**: This module organizes study materials into courses and modules, allowing easy access and navigation for students.
+   - **Interactive Content**: This feature provides tools for creating interactive content such as multimedia presentations and simulations, enhancing the learning experience.
+
+4. **Progress Tracking System**
+   - **Student Progress**: This part tracks student progress through courses and modules, providing detailed analytics and reports.
+   - **Performance Analytics**: This module analyzes student performance data, identifying strengths and weaknesses to provide targeted support.
+   - **Reporting**: This feature generates reports for instructors and administrators, helping them monitor and assess student performance.
+
+5. **Communication Tools**
+   - **Chat and Messaging**: This component provides real-time chat and messaging functionalities for students and instructors.
+   - **Discussion Forums**: This module enables students and instructors to participate in discussion forums, facilitating knowledge sharing and collaboration.
+   - **Live Q&A**: This feature supports live Q&A sessions during virtual classes, enhancing interaction and engagement.
+
+6. **Security and Data Protection**
+   - **Data Encryption**: This module ensures that all sensitive data is encrypted, protecting it from unauthorized access.
+   - **Secure Transmission**: This feature guarantees secure data transmission, preventing interception and tampering.
+   - **Backup and Recovery**: This component implements backup and recovery procedures, ensuring data integrity and availability.
+
+7. **Mobile Compatibility**
+   - **Responsive Design**: This part ensures that the platform is responsive and works seamlessly on various devices, including desktops, tablets, and smartphones.
+   - **Mobile Apps**: This module provides mobile applications for iOS and Android, offering a native experience for users.
+
+8. **Continuous Improvement**
+   - **Regular Updates**: This feature ensures that the platform receives regular updates and feature enhancements, keeping it up-to-date with the latest technologies and user requirements.
+   - **User Support**: This component provides user support and troubleshooting, ensuring a smooth and efficient user experience.
+
+This document outlines the key features, system objectives, and both functional and non-functional requirements for the Remote Learning Management System. It provides a comprehensive overview of the system's architecture and processes, ensuring a secure, user-friendly, and effective remote learning experience.
+```
+
