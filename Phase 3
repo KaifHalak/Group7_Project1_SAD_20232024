@@ -74,7 +74,7 @@ This part, using Data Flow Diagrams (DFDs), will show the system from both a hig
 ### Context Diagram
 
 The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.
-![Context Diagram](images/DFD Context Diagram.jpg)
+
 
 ### DFD Level 0
 
