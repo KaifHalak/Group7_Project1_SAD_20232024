@@ -308,7 +308,33 @@ The child diagram breaks down the main processes into more detailed components, 
 
 This document outlines the key features, system objectives, and both functional and non-functional requirements for the Remote Learning Management System. It provides a comprehensive overview of the system's architecture and processes, ensuring a secure, user-friendly, and effective remote learning experience.}
 
-## 7.
+## 7.Physical System Design
+
+### Diagram 0
+
+![PHYSICAL Diagram 0 - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/c037f95b-3cab-4607-be59-89ae3d235164)
+
+### Child Diagram
+
+![(Physical)Performance Tracking Physical Child Diagram](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/1f29a852-a29e-4433-9470-69dfb091a9e8)
+
+### Partitioning 
+![partitioning](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/9c444e0f-fa0f-4982-a480-496ed29030e0)
+
+### CRUD Matrix
+
+<img width="624" alt="Screenshot 2024-06-30 at 10 32 32 PM" src="https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/bc6065c2-380d-4d22-8a40-1fbc992e709a">
+
+
+### Event Response Table
+
+<img width="554" alt="Screenshot 2024-06-30 at 10 17 52 PM" src="https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/e7724c88-9ee8-461a-a669-8ec950b07b0d">
+
+
+### Structure Chart
+
+### System Architecture 
+![System Architecture](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/a4ca023d-e0e7-445f-b95d-bdf3c7fc2166)
 
 
 
