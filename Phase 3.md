@@ -308,11 +308,11 @@ The child diagram breaks down the main processes into more detailed components, 
 
 This document outlines the key features, system objectives, and both functional and non-functional requirements for the Remote Learning Management System. It provides a comprehensive overview of the system's architecture and processes, ensuring a secure, user-friendly, and effective remote learning experience.}
 
-##7
+## 7
 
-##8
+## 8
 
-##[System Wireframe-UI Design of the System](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
+## [System Wireframe-UI Design of the System](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
 
 
 ##9
