@@ -332,6 +332,8 @@ This document outlines the key features, system objectives, and both functional 
 
 
 ### Structure Chart
+![PHOTO-2024-06-30-23-10-46](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/bfde2f15-43b9-444b-a7b0-18abbbc705fb)
+
 
 ### System Architecture 
 ![System Architecture](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/a4ca023d-e0e7-445f-b95d-bdf3c7fc2166)
