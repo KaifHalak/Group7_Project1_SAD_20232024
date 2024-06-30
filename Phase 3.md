@@ -2,10 +2,10 @@
 
 ![](/images/UTM%20Logo.png)
 ## Malaysian-Japan International Institute of Technology 
-### SECD2613-15 SYSTEM ANALYSIS AND DESIGN\
+### SECD2613-15 SYSTEM ANALYSIS AND DESIGN
 
 #### Group Assignment 1
-#### Lecturer Name: Dr. SAIDATUL HAMIDAH BINTI ABD HAMID\
+#### Lecturer Name: Dr. SAIDATUL HAMIDAH BINTI ABD HAMID
 
 | Group Members    | Matric Number |
 | -------- | ------- |
@@ -14,7 +14,7 @@
 | Md Arshad Ali Bhuiyan    | A22MJ9007    |
 
 
-# System Requirement Document for Remote Learning System Implementation (Phase 2)
+# System Requirement Document for Remote Learning System Implementation (Phase 3)
 
 
 ## 1.0 Overview of the Project
@@ -33,8 +33,7 @@ The school currently lacks the following infrastructure:
 - Lack of comprehensive tracking tools, data analysis capabilities, and performance evaluation mechanisms to assess student learning outcomes accurately
 
 ### Insufficient Interactive Study Materials
-- Lack of engaging and interactive study materials available to students in a remote learning setting such as multimedia content, interactive exercises, and adaptive learning tools
-@\uc0\u8296 ./.\u8297  
+- Lack of engaging and interactive study materials available to students in a remote learning setting such as multimedia content, interactive exercises, and adaptive learning tools 
 
 ## 3.0 Proposed Solutions
 To tackle these problems, the following solutions are proposed:
@@ -65,13 +64,13 @@ To tackle these problems, the following solutions are proposed:
 ### Co-Curricular Activities Integration
 - **Management of co-curricular activities within the RLMS**: Allow for online club meetings and events using video conferencing and collaboration tools.
 - **Facilitate registration and participation in various co-curricular activities**: Provide a platform for sharing resources (documents, videos, photos) related to co-curricular activities.
-- **Enable communication between club leaders, members, and teachers for activity planning and discussions**: Integrate functionalities for online competitions, showcases, and presentations related to co-curricular activities.\
+- **Enable communication between club leaders, members, and teachers for activity planning and discussions**: Integrate functionalities for online competitions, showcases, and presentations related to co-curricular activities.
 
 ### Result Management
 - **User-friendly interface for teachers to record and update student performance data**: Enable the recording of various types of assessments, including quizzes, assignments, projects, and participation.
 - **Allow for flexible grading schemes (e.g., rubrics, points systems) aligned with the school's curriculum**: Integrate with the progress tracking features for a holistic view of student achievement.
 - **Secure and informative results portal for parents**: Provide parents with timely access to their child's grades and progress reports.
-- **Allow for visualizations of results (e.g., charts, graphs) for easy understanding of strengths and weaknesses**: Offer options for personalized communication with teachers regarding specific subjects or areas needing improvement.\
+- **Allow for visualizations of results (e.g., charts, graphs) for easy understanding of strengths and weaknesses**: Offer options for personalized communication with teachers regarding specific subjects or areas needing improvement.
 
 ## 4.0 Information Gathering Process
 The information-gathering process involved Interactive Methods such as interviews and surveys accompanied by Unobtrusive Methods like sampling and STROBE with key stakeholders including students, teachers, administrators, and IT staff. Observations of current processes were also conducted to understand existing implementation and pain points.
@@ -83,7 +82,7 @@ The information-gathering process involved Interactive Methods such as interview
   - On a scale of 1 to 5, how satisfied are you with the current remote learning tools? (Students, Teachers)
   - How often do technical issues disrupt your learning/teaching experience? (Never, Rarely, Sometimes, Often, Always) (Students, Teachers)
   - Do you have access to reliable internet connectivity for remote learning? (Yes/No) (Students, Teachers)
-- **Open-Ended Questions:**\
+- **Open-Ended Questions:**
   - What challenges do you face with the current remote learning setup? (Students, Teachers, Administrators)
   - What features do you think are most critical for a remote learning system? (Students, Teachers, Administrators)
   - How can communication between students and teachers be improved in a remote setting? (Students, Teachers, Administrators)
@@ -175,18 +174,11 @@ This approach leads to several challenges, including inefficient communication c
 
 ![](/images/DFD%20Diagram%200.jpg)
 
-## 6.0 Summary of Requirement Analysis Process
-The requirement analysis process involved gathering data through surveys and interviews with stakeholders, analyzing the current business processes, and identifying the functional and non-functional requirements for the new system. This thorough analysis ensures the new RLMS will address existing challenges effectively, providing a seamless and enhanced learning experience.
+### Child Diagram
+![](/images/Performance%20Tracking%20Child%20Diagram%20AS-IS.jpg)
 
-Overall, the proposed remote learning system for Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail is will to revolutionize education delivery, leveraging technology to enhance learning outcomes and operational efficiency.
 
-## 6
-
-## Overview
-
-The Remote Learning Management System (RLMS) aims to provide a comprehensive, secure, and user-friendly web-based application for managing remote education. The system will benefit various stakeholders, including administrators, instructors, students, and technical support teams. The key features will include virtual classrooms, interactive study materials, progress tracking systems, and communication tools. These features enable a flexible and effective remote learning experience tailored to the user's needs.
-
-## System Objectives
+## 6.0 System Objectives
 
 This new Remote Learning Management System has specific objectives to improve its functionality and provide better opportunities for its users.
 
@@ -249,24 +241,24 @@ Functional requirements summarize the essential features and capabilities that t
 - **Scalability**: The system should scale horizontally to accommodate a growing user base.
 - **Security**: Adhere to industry standards for privacy and data security for all users.
 
-## Logical DFD TO-BE System
+## 6.1 Logical DFD TO-BE System
 
 This part, using Data Flow Diagrams (DFDs), will show the system from both a high-level (context diagram) and a more in-depth perspective (level diagrams).
 
 ### Context Diagram
 
 The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.
-![Context Diagram - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/d3086c8a-cfbe-4f6f-b5b9-874675fdd99e)\]
+![Context Diagram - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/d3086c8a-cfbe-4f6f-b5b9-874675fdd99e)
 
 ### DFD Level 0
 The DFD Level 0 diagram for the RLMS illustrates the major processes within the system, including user management, virtual classroom management, material management, progress tracking, and communication.
 ![Diagram 0 - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/830f2ba0-5fd7-40a8-a2f1-26ce5970e380)
 ### Child Diagram
 
-The child diagram breaks down the main processes into more detailed components, showing the specific functionalities within user management, virtual classroom management, material management, progress tracking, and communication tools.
+The child diagram breaks down the main processes into more detailed components, showing the specific functionalities of progress tracking tools.
 ![Performance Tracking Child Diagram TO-BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/cc683e06-6710-4da9-9fde-f7c3404745bf)
 
-## Process Specifications
+## 6.2 Process Specifications
 
 1. **User Management**
    - **Authentication and Access Control**: This module manages user login and signup, utilizing a variety of authentication approaches such as username/password and social login. It handles user roles and permissions, implementing access control regulations to guarantee that users can only conduct actions and access resources relevant to their given responsibilities.
@@ -308,7 +300,7 @@ The child diagram breaks down the main processes into more detailed components, 
 
 This document outlines the key features, system objectives, and both functional and non-functional requirements for the Remote Learning Management System. It provides a comprehensive overview of the system's architecture and processes, ensuring a secure, user-friendly, and effective remote learning experience.}
 
-## 7.Physical System Design
+## 7.0 Physical System Design
 
 ### Diagram 0
 
@@ -340,7 +332,9 @@ This document outlines the key features, system objectives, and both functional 
 
 
 
-## 8.[System Wireframe-UI Design of the System](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
+## 8.0 System Wireframe-UI Design of the System
+
+[> Figma Link](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
 
 
 
@@ -360,4 +354,4 @@ The Online Quiz Platform aims to provide a scalable, secure, and user-friendly w
 ## Conclusion:
 
 The Online Quiz Platform fulfills essential functional requirements such as user authentication, quiz management, and grading, while also addressing critical non-functional aspects like performance, usability, reliability, scalability, and security. By integrating role-based access control, automated grading, and detailed analytics, it ensures a seamless and efficient online learning and evaluation experience. The platform's emphasis on security measures and integration capabilities makes it a modern, reliable, and adaptable solution for educational institutions seeking robust quiz administration software.
-}
+

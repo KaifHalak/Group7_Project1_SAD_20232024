@@ -41,8 +41,7 @@ The school currently lacks the following infrastructure:
 - Lack of comprehensive tracking tools, data analysis capabilities, and performance evaluation mechanisms to assess student learning outcomes accurately
 
 ### Insufficient Interactive Study Materials
-- Lack of engaging and interactive study materials available to students in a remote learning setting such as multimedia content, interactive exercises, and adaptive learning tools
-@⁨./.⁩ 
+- Lack of engaging and interactive study materials available to students in a remote learning setting such as multimedia content, interactive exercises, and adaptive learning tools.
 
 ## 3.0 Proposed Solutions
 To tackle these problems, the following solutions are proposed:
@@ -184,6 +183,9 @@ This approach leads to several challenges, including inefficient communication c
 ### Diagram 0
 
 ![](/images/DFD%20Diagram%200.jpg)
+
+### Child Diagram
+![](/images/Performance%20Tracking%20Child%20Diagram%20AS-IS.jpg)
 
 ## 6.0 Summary of Requirement Analysis Process
 The requirement analysis process involved gathering data through surveys and interviews with stakeholders, analyzing the current business processes, and identifying the functional and non-functional requirements for the new system. This thorough analysis ensures the new RLMS will address existing challenges effectively, providing a seamless and enhanced learning experience.
