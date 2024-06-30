@@ -180,7 +180,7 @@ The requirement analysis process involved gathering data through surveys and int
 
 Overall, the proposed remote learning system for Sekolah Menengah Kebangsaan Taman Tun Dr. Ismail is will to revolutionize education delivery, leveraging technology to enhance learning outcomes and operational efficiency.
 
-##6
+## 6
 
 ## Overview
 
@@ -251,11 +251,11 @@ Functional requirements summarize the essential features and capabilities that t
 
 ## Logical DFD TO-BE System
 
-This part, using Data Flow Diagrams (DFDs), will show the system from both a high-level (context diagram) and a more in-depth perspective (level diagrams).\
+This part, using Data Flow Diagrams (DFDs), will show the system from both a high-level (context diagram) and a more in-depth perspective (level diagrams).
 
 ### Context Diagram
 
-The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.\
+The context diagram for the RLMS illustrates the system's interactions with various external entities, including users, administrators, and external data sources. It offers a broad perspective on the system's boundaries and important interfaces.
 ![Context Diagram - TO - BE](https://github.com/KaifHalak/Group7_Project1_SAD_20232024/assets/79431510/d3086c8a-cfbe-4f6f-b5b9-874675fdd99e)\]
 
 ### DFD Level 0
@@ -310,9 +310,9 @@ This document outlines the key features, system objectives, and both functional 
 
 ## 7.
 
-## 8.
 
-## [System Wireframe-UI Design of the System](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
+
+## 8.[System Wireframe-UI Design of the System](https://www.figma.com/proto/9LfawNpzOXmSymYHnUCDUg/SCHOOL-MANAGEMENT-SYSTEM-(Community)-(Copy)?node-id=1314-3145&t=7r2IMcW7yRQATGvN-0&scaling=contain&content-scaling=fixed&page-id=9%3A0&starting-point-node-id=1314%3A3145&show-proto-sidebar=1)
 
 
 
